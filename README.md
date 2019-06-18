@@ -8,3 +8,6 @@ Original data is from Wiki-Database. The ranking weight is computing from a mult
 
 Transition * Pagerank Relationship. 
 40 Iteration with a beta (0.2)
+
+
+WeChat Image_20190618095250.jpg

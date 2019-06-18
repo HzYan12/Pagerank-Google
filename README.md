@@ -10,4 +10,4 @@ Transition * Pagerank Relationship.
 40 Iteration with a beta (0.2)
 
 
-WeChat Image_20190618095250.jpg
+![WeChat Image_20190618095250](https://user-images.githubusercontent.com/51211808/59690369-54d41400-91af-11e9-989e-50b4910fbf8b.jpg)

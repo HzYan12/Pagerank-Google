@@ -1,6 +1,6 @@
 # Pagerank-Google
 
-Following Google's Larry Page: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
+Following Google's Larry Page's theory: http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf
 
 Realizing "Page Rank" with Mapreduce algorithm
 
